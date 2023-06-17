@@ -1,5 +1,5 @@
 # BONZAI
-11.1 Individuell inlamningsuppgift
+11.1 Individuell inlämningsuppgift
 
 ## Bakgrund
 
