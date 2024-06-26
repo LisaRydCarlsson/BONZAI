@@ -1,4 +1,4 @@
-# BONZAI
+ # BONZAI
 11.1 Individuell inlämningsuppgift
 
 ## Bakgrund
@@ -22,22 +22,4 @@ All text kan vara lorem ipsum.
 * Använda CSS Grid och flexbox.
 * En CSS-fil ska bara användas.
 
-## Bilder
 
-Bilder och logotyp hittar ni [här](https://drive.google.com/file/d/1B-ZIP8FXb536bRG5hhKgP43dYVdvxBO_/view?usp=sharing).
-
-## Betygskriterier
-
-**För att få godkänt ska du:**
-* Ha gjort hemsidan responsiv (d.v.s den ska funka både i desktop och mobilt läge).
-* Använda dig av semantisk HTML.
-* Använda CSS Grid och flexbox.
-* Använda dig av de bifogade bilderna.
-* Det enbart finns en CSS-fil.
-
-**För att få Väl Godkänt ska du:**
-* Allt i godkänt
-* Använda dig av BEM som namnstandard.
-* Din CSS ska vara strukturerad och tydligt indelad, gärna så komponentbaserad som möjligt. Vid funderingar fråga!
-
-Inlämning sker via Github och Awesomo. Ladda upp ditt projekt på Github. Gå sedan in på Awesomo och kopiera in länken till ditt repo.
