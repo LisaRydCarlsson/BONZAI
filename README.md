@@ -1,5 +1,6 @@
  # BONZAI
-11.1 Individuell inlämningsuppgift
+## En futuristisk resort
+Individuell inlämningsuppgift
 
 ## Bakgrund
 
